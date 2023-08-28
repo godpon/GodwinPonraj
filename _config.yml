@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Godwin Ponraj"
+author: "Godwin Ponraj"
+description: "Department of Biomedical Engineering, National University of Singapore"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
