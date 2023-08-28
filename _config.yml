@@ -1,6 +1,7 @@
 title: "Godwin Ponraj"
 author: "Godwin Ponraj"
-description: "Department of Biomedical Engineering, National University of Singapore"
+description: "Department of Biomedical Engineering, 
+              National University of Singapore"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,6 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
+  - {title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:godwin.joseph@u.nus.edu"}
