@@ -11,9 +11,12 @@ title: "Home"
 </div>
 ---
 
+---
 <div align="center">
-## Recent Projects
+  
+  ## **Recent Projects**
 </div>
+---
 
 {% if site.show_excerpts %}
   {% include home.html %}
