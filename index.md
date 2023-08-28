@@ -12,7 +12,7 @@ title: "Home"
 ---
 
 <div align="center">
-  Recent Projects
+## Recent Projects
 </div>
 
 {% if site.show_excerpts %}
