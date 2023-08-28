@@ -11,19 +11,3 @@ title: "Home"
 </div>
 
 
-
-<div align="center">
-  <h1>
-    <strong>
-      Recent Projects
-    </strong>
-    <hr>
-  </h1>
-</div>
-
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
