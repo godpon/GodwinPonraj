@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:godwin.joseph@u.nus.edu"}
   - {title: Github, icon: github, url: "https://github.com/godpon"}
-  - {title: Google Scholar, icon: google, url: "https://scholar.google.com.sg"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com.sg/citations?user=CRLrkQUAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
