@@ -1,0 +1,12 @@
+MAGNETIC RESONANCE COUPLING BASED WIRELESS POWER SHARING SCHEME (MRC-WPSS)
+
+In this project, we shall discuss a novel wireless power sharing scheme using magnetic resonance coupling (MRC-WPSS), 
+where a single transmission system can simultaneously transmit power and control the distributed between two entirely passive receiving sides. 
+This will not only facilitate the device operation without on-board battery but also provides the ability to control the said device based on the amount of power it receives. 
+For example, two heaters used in therapy around the same region can be wirelessly powered and controlled to effect different temperatures. 
+While most existing solutions choose either selectivity or power manipulation, our proposed system aims to achieve an optimal solution between power sharing and selectivity. 
+Simulation results support our claim that, by selecting the transmission side capacitance and by designing sufficiently overlapping receiving side resonant profiles, 
+the desired load-sharing profile can be achieved between the two secondaries. 
+A simple experimental prototype was designed using resistive heaters as the two secondary loads. 
+Experimental results show the load sharing at different temperatures in the two heaters.
+The proposed wireless power transfer design can be used in simple remote applications that benefit from power control, such as remotely controllable heaters and robotic actuations.
