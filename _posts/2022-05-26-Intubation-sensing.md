@@ -7,6 +7,7 @@ categories: media
 <style>
   .container {
   display: flex;
+  height: 200px;
   align-items: center;
   justify-content: center
 }
