@@ -14,12 +14,10 @@ categories: media
 img {
   max-width: 100%;
   max-height:100%;
-  float: left
 }
 
 .text {
-  padding-left: 50px;
-  float: left
+  padding-left: 20px;
 }
 </style>
 
