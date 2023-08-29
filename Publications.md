@@ -13,17 +13,17 @@ title: "Publications"
 </style>
 ## Key Publications
 <div class="flex-container">
-      <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
+      <div class="image" style="flex-basis: 48%">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
+      <div class="image" style="flex-basis: 48%">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
-      <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
+      <div class="image" style="flex-basis: 45%">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
+      <div class="image" style="flex-basis: 45%">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
       <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
