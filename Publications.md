@@ -4,13 +4,9 @@ title: "Publications"
 ---
 
 ## Key Publications
-
-<?php $image = "/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg"; ?>
-
-<img src= "<?php echo $image; ?>" width="200" height="100">
+<img src="/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg" width="200" height="100">
 
 <!--
-<img src="/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg" width="200" height="100">
 ![Schematic](/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg)
 -->
 
