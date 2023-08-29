@@ -12,8 +12,6 @@ categories: media
 }
 
 img {
-  max-width: 100%;
-  max-height:100%;
 }
 
 .text {
