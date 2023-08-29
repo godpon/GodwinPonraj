@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 ## Key Publications
-<img src="/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg" width="200" height="100">
+<img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width="200" height="100">
 
 <!--
 ![Schematic](/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg)
