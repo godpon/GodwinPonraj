@@ -2,48 +2,53 @@
 layout: post
 title: "Publications"
 ---
+
 <style>
   .flex-container {
     display: flex;
     flex-flow: row wrap;
+    align-items: center;
+    justify-content: center
   }
 </style>
 ## Key Publications
-<div class="container">
+<div class="flex-container">
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 3000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 3000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 2000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 2000px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="image" style="flex-basis: 2000px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
       </div>
 </div>
+
+
 <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width="200" height="100">
 
 <!--
