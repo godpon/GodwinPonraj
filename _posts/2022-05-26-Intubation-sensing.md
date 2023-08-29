@@ -22,7 +22,7 @@ img {
 </style>
 
 <div class="container">
-      <div class="image" style="flex-basis: 200px">
+      <div class="image" style="flex-basis: 50%">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
       </div>
       <div class="text" align="justify">
