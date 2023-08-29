@@ -5,9 +5,9 @@ title: "Publications"
 
 ## Key Publications
 
-<<set $image = "/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg">>
+<?php $image = "/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg"; ?>
 
-<img src= $image width="200" height="100">
+<img src= "<?php echo $image; ?>" width="200" height="100">
 
 <!--
 <img src="/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg" width="200" height="100">
