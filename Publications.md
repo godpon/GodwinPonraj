@@ -5,9 +5,12 @@ title: "Publications"
 
 ## Key Publications
 
-<img src="/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg" width="200" height="100">
+<<set $image = "/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg">>
+
+<img src= $image width="200" height="100">
 
 <!--
+<img src="/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg" width="200" height="100">
 ![Schematic](/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg)
 -->
 
