@@ -10,37 +10,37 @@ title: "Publications"
 </style>
 ## Key Publications
 <div class="container">
-      <div class="image">
+      <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 3000px">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 3000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 2000px">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 2000px">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
       </div>
-      <div class="image">
+      <div class="image" style="flex-basis: 2000px">
         <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
       </div>
 </div>
