@@ -2,8 +2,48 @@
 layout: post
 title: "Publications"
 ---
-
+<style>
+  .flex-container {
+    display: flex;
+    flex-flow: row wrap;
+  }
+</style>
 ## Key Publications
+<div class="container">
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
+      </div>
+      <div class="image">
+        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
+      </div>
+</div>
 <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width="200" height="100">
 
 <!--
@@ -12,7 +52,7 @@ title: "Publications"
 
 ## Full list of Publications
 
-1. <b>_G. Ponraj_</b>, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” IEEE Robot. Autom. Lett., pp. 1–1, 2022, doi: 10.1109/LRA.2022.3141664.
+1. <b>_G. Ponraj_</b>, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2369-2376, April 2022, doi: 10.1109/LRA.2022.3141664.
 
 2. K. Senthil Kumar, X. Xiao, M. S. Kalairaj, <b>_G. Ponraj_</b>, C. Li, C. J. Cai, C. M. Lim, H. Ren, “Omnidirectional Steerable Forceps With Flexible Joints and Skin-Like Stretchable Strain Sensors,” IEEE/ASME Trans. Mechatronics, vol. 27, no. 2, pp. 713–724, Apr. 2022, doi: 10.1109/TMECH.2021.3069782.
 
