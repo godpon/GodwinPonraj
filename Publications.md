@@ -8,7 +8,11 @@ title: "Publications"
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-    justify-content: center
+    justify-content: flex-start
+  }
+
+  img{
+  padding-left: 10px;
   }
 </style>
 ## Key Publications
