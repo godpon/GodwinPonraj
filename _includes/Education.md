@@ -31,7 +31,7 @@
         <b>Master of Science</b><br>
         <i>Electrical Engineering (Automation & Control)</i><br>
         National University of Singapore<br>
-        Aug’14 – Dec’16
+        Aug’14 – Dec’15
       </div>
       <div class="text" align="center">
         <b>Bachelor of Engineering</b><br>
