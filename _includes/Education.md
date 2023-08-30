@@ -7,9 +7,11 @@
   justify-content: space-around;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .container {
     flex-direction: column;
+    align-items: space-even;
+    justify-content: center;
   }
 }
   
