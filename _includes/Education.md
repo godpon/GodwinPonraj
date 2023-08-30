@@ -15,14 +15,31 @@ img {
 
 <div class="container">
       <div class="text" align="left">
-        Doctor of Philosophy (CAP: 4.75/5.00)<br>
-        Biomedical Engineering
+        <b>Doctor of Philosophy</b><br>
+        <i>Biomedical Engineering</i>
       </div>
       <div class="text" align="right">
         National University of Singapore<br>
         Aug’19 – Present
       </div>
 </div>
-
-
-![image](https://github.com/godpon/GodwinPonraj/assets/66863474/4dcb7ebc-872a-48f6-83ac-9f8b1fcd2d06)
+<div class="container">
+      <div class="text" align="left">
+        <b>Master of Science</b><br>
+        <i>Electrical Engineering (Automation & Control)</i>
+      </div>
+      <div class="text" align="right">
+        National University of Singapore<br>
+        Aug’14 – Dec’16
+      </div>
+</div>
+<div class="container">
+      <div class="text" align="left">
+        <b>Bachelor of Engineering</b><br>
+        <i>Electrical & Electronics Engineering</i>
+      </div>
+      <div class="text" align="right">
+        Thiagarajar College of Engineering, India<br>
+        Jun’09 – Apr’13
+      </div>
+</div>
