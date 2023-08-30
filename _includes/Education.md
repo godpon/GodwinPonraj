@@ -3,7 +3,7 @@
   display: flex;
   width: 80%;
   align-items: flex-start;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .text {
