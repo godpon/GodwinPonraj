@@ -1,18 +1,17 @@
 <style>
   .container {
   display: flex;
+  width: 80%;
   align-items: flex-start;
   justify-content: space-around;
 }
 
-img {
-}
-
 .text {
-  padding-left: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 </style>
-
+---
 <div class="container">
       <div class="text" align="left">
         <b>Doctor of Philosophy</b><br>
@@ -23,6 +22,7 @@ img {
         Aug’19 – Present
       </div>
 </div>
+---
 <div class="container">
       <div class="text" align="left">
         <b>Master of Science</b><br>
@@ -33,6 +33,7 @@ img {
         Aug’14 – Dec’16
       </div>
 </div>
+---
 <div class="container">
       <div class="text" align="left">
         <b>Bachelor of Engineering</b><br>
@@ -43,3 +44,4 @@ img {
         Jun’09 – Apr’13
       </div>
 </div>
+---
