@@ -13,7 +13,7 @@
 }
 </style>
 
-<div class="container">
+<div class="container" style="font-size:50%;">
       <div class="text" align="center">
         <b>Doctor of Philosophy</b><br>
         <i>Biomedical Engineering</i><br>
