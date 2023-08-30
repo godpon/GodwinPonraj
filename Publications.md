@@ -15,45 +15,6 @@ title: "Publications"
   padding-left: 10px;
   }
 </style>
-## Key Publications
-<div class="flex-container">
-      <div class="image" style="flex-basis: 48%">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
-      </div>
-      <div class="image" style="flex-basis: 48%">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
-      </div>
-      <div class="image" style="flex-basis: 45%">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg">
-      </div>
-      <div class="image" style="flex-basis: 45%">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg">
-      </div>
-      <div class="image" style="flex-basis: 400px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
-      </div>
-      <div class="image" style="flex-basis: 400px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
-      </div>
-      <div class="image" style="flex-basis: 300px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
-      </div>
-      <div class="image" style="flex-basis: 300px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
-      </div>
-      <div class="image" style="flex-basis: 200px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
-      </div>
-      <div class="image" style="flex-basis: 200px">
-        <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" width = "100%" height = "100%">
-      </div>
-      <div class="image" style="flex-basis: 200px">
-        <img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width = "100%" height = "100%">
-      </div>
-</div>
-
-
-<img src="/GodwinPonraj/assets/Fig_WPT_sch.jpg" width="200" height="100">
 
 <!--
 ![Schematic](/GodwinPonraj_contrast/assets/Fig_WPT_sch.jpg)
