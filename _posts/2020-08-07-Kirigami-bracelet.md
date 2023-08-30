@@ -24,7 +24,7 @@ img {
         Wearable devices are gaining recognition for their use as a biosensor platform. Electrical impedance tomography (EIT) is one of the sensing techniques that utilizes wearable sensors as its primary data acquisition system. It measures the impedance or resistance at the peripheral (skin) level and calculates the conductivity distribution throughout the body. Even though the technology has existed for several decades, modern-day EIT devices are still costly and bulky. We propose a novel low-cost kirigami-based wearable device that has soft PEDOT: PSS electrodes for sensing skin impedances.
       </div>
       <div class="image" style="flex-basis: 4000px">
-        <img src="/GodwinPonraj/assets/Fig_Kiri-bracelet.jpg" width = "100%" height = "100%">
+        <img src="/GodwinPonraj/assets/Fig_Kiri_bracelet.jpg" width = "100%" height = "100%">
       </div>
 </div>
 
