@@ -1,14 +1,14 @@
 <style>
   .container {
   display: flex;
-  width: 80%;
+  width: 100%;
   align-items: flex-start;
   justify-content: space-between;
 }
 
 .text {
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 </style>
 
@@ -22,7 +22,7 @@
         Aug’19 – Present
       </div>
 </div>
-
+<br>
 <div class="container">
       <div class="text" align="left">
         <b>Master of Science</b><br>
@@ -33,7 +33,7 @@
         Aug’14 – Dec’16
       </div>
 </div>
-
+<br>
 <div class="container">
       <div class="text" align="left">
         <b>Bachelor of Engineering</b><br>
