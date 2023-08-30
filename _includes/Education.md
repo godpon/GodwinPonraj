@@ -7,13 +7,19 @@
   justify-content: space-around;
 }
 
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}
+  
 .text {
   padding-left: 5px;
   padding-right: 5px;
 }
 </style>
 
-<div class="container" style="font-size:50%;">
+<div class="container" style="font-size:90%;">
       <div class="text" align="center">
         <b>Doctor of Philosophy</b><br>
         <i>Biomedical Engineering</i><br>
