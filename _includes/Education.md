@@ -4,7 +4,7 @@
   width: 100%;
   flex-wrap: wrap;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .text {
