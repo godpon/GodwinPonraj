@@ -48,9 +48,3 @@ img {
         </a>
       </div>
 </div>
-<a href="Projects/">
-      <div align="right">
-        <h4><em>View All Projects</em></h4>
-      </div>
-</a>
-<hr>
