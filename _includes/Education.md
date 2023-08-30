@@ -10,8 +10,7 @@
 @media (max-width: 800px) {
   .container {
     flex-direction: column;
-    align-items: space-even;
-    justify-content: center;
+    align-items: center;
   }
 }
   
