@@ -31,4 +31,7 @@ img {
 
 We use an office-based inkjet printer to produce the antenna traces using silver conductive ink. Kirigami-inspired designs are used to produce four sensors responsive to various mechanical stimuli commonly used for DIY robotic projects (contact, compression, extension, and bend). We demonstrate sensing and wireless transmission of the detected mechanical stimuli through the proposed chipless sensor tags with reliable consistency. The tags can be replicated quickly with the inkjet-printing method. This paper also contains analyses on the effects of varying the dimensions and electrical parameters of the tags. The developed antennas in this work can be used as wireless mechano-responsive sensors for robotic applications.
 
-Related Publication: **_G. Ponraj_**, W. L. Yeo, K. S. Kumar, M. S. Kalairaj, C. J. Cai and H. Ren, "Chip-Less Wireless Sensing of Kirigami Structural Morphing Under Various Mechanical Stimuli Using Home-Based Ink-Jet Printable Materials," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11400-11407, [doi: 10.1109/ICRA48506.2021.9561945](https://ieeexplore.ieee.org/document/9561945).
+<div style="background-color: Gainsboro; color: black; padding:10px;">
+<u>Related Publication:</u><br>
+<b><i>G. Ponraj</i></b>, W. L. Yeo, K. S. Kumar, M. S. Kalairaj, C. J. Cai and H. Ren, "Chip-Less Wireless Sensing of Kirigami Structural Morphing Under Various Mechanical Stimuli Using Home-Based Ink-Jet Printable Materials," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11400-11407, <a href="https://ieeexplore.ieee.org/document/9561945">doi: 10.1109/ICRA48506.2021.9561945</a>.
+</div>
