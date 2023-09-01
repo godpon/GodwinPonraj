@@ -31,4 +31,7 @@ img {
 
 Simulation results show that the proposed kirigami structure for the bracelet has a large deformation during actuation while experiencing relatively lower stress. The paper also presents a comparative study on a few machine learning algorithms to classify hand gestures, based on the measured skin impedance. The best classification accuracy (91.49%) was observed from the quadratic support vector machine (SVM) algorithm with 48 principal components.
 
-Related Publication: **_G. Ponraj_**, X. Z. Wang, K. S. Kumar, and H. Ren, “Comparative Study of Machine Learning Algorithms to Classify Hand Gestures from Deployable and Breathable Kirigami-Based Electrical Impedance Bracelet,” Multimodal Technol. Interact. 2020, Vol. 4, Page 47, vol. 4, no. 3, p. 47, Aug. 2020, [doi: 10.3390/MTI4030047](https://www.mdpi.com/791780).
+<div style="background-color: Gainsboro; color: black; padding:10px;">
+<u>Related Publication:</u><br>
+<b><i>G. Ponraj</i></b>, X. Z. Wang, K. S. Kumar, and H. Ren, “Comparative Study of Machine Learning Algorithms to Classify Hand Gestures from Deployable and Breathable Kirigami-Based Electrical Impedance Bracelet,” Multimodal Technol. Interact. 2020, Vol. 4, Page 47, vol. 4, no. 3, p. 47, Aug. 2020, <a href="https://www.mdpi.com/791780">doi: 10.3390/MTI4030047</a>.
+</div>
