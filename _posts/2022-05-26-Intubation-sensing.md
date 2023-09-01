@@ -33,5 +33,5 @@ We used printable silver conductive ink to fabricate flexible RF antennas to be 
 
 <div style="background-color: LightGray; color: Gray">
 Related Publication:<br>
-**_G. Ponraj_**, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2369-2376, April 2022, [doi: 10.1109/LRA.2022.3141664.](https://ieeexplore.ieee.org/document/9676421/)
+<b><i>G. Ponraj</i></b>, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2369-2376, April 2022, [doi: 10.1109/LRA.2022.3141664.](https://ieeexplore.ieee.org/document/9676421/)
 </div>
