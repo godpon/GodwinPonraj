@@ -21,7 +21,7 @@ img {
 
 <div class="container">
       <div class="text" align="justify">
-        This manuscript proposes a novel gold foil-based kirigami strain sensor fabricated specifically for strain measurement in biomedical catheters.The kirigami design pattern allowed high stretchability the sensor maintained its strain sensitivity without electric failure for over 350% of radial strain. The kirigami strain sensor integrated on the balloon catheter is a promising solution in the medical industry in providing quantitative data and real-time feedback monitoring of the balloon structure to ensure a safe and efficient procedure.
+        A novel gold foil-based kirigami strain sensor fabricated specifically for strain measurement in biomedical catheters. The kirigami design pattern allowed high stretchability the sensor maintained its strain sensitivity without electric failure for over 350% of radial strain. The kirigami strain sensor integrated on the balloon catheter is a promising solution in the medical industry in providing quantitative data and real-time feedback monitoring of the balloon structure to ensure a safe and efficient procedure.
       </div>
       <div class="image" style="flex-basis: 4000px">
         <img src="/GodwinPonraj/assets/Fig_Kiri_balloon.jpg" width = "100%" height = "100%">
