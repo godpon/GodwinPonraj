@@ -4,7 +4,7 @@
   width: 100%;
   flex-wrap: wrap;
   align-items: flex-start;
-  justify-content: flex-end;
+  justify-content: space-around;
 }
 
 @media (max-width: 600px) {
@@ -14,10 +14,6 @@
   }
 }
   
-.text {
-  padding-left: 5px;
-  padding-right: 5px;
-}
 </style>
 
 <div class="container" style="font-size:90%;">
