@@ -6,13 +6,6 @@
   align-items: flex-start;
   justify-content: space-around;
 }
-
-@media (max-width: 600px) {
-  .container {
-    flex-direction: column;
-    align-items: center;
-  }
-}
   
 </style>
 
