@@ -15,8 +15,8 @@
 }
   
 .text {
-  padding-left: 5px;
-  padding-right: 25px;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 </style>
 
