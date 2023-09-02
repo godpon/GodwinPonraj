@@ -20,7 +20,7 @@
 }
 </style>
 
-<div class="container" style="font-size:90%;">
+<div class="container" style="font-size:0.8em;">
       <div class="text" align="center" style="padding: 1em;">
         <b>Doctor of Philosophy</b><br>
         <i>Biomedical Engineering</i><br>
