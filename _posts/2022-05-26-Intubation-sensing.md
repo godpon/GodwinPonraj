@@ -7,6 +7,7 @@ categories: media
 <style>
   .post_container {
   display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
@@ -31,17 +32,16 @@ categories: media
   align-content: space-around;
 }
 /* Responsive layout - makes a one column layout instead of a two-column layout */
-@media (max-width: 800px) {
+/*@media (max-width: 800px) {
   .flex-item-right, .flex-item-left {
     flex: 100%;
-  }
+  }*/
 
-/* @media (max-width: 800px) {
+@media (max-width: 800px) {
   .post_container {
     flex-direction: column;
-    align-items: center;
   }
-}*/
+}
 
 .text {
   padding-right: 20px;
