@@ -5,13 +5,16 @@ layout: post
 categories: media
 ---
 <style>
-  .container {
+  .post_container {
   display: flex;
   align-items: center;
   justify-content: center
 }
-
-img {
+@media (max-width: 800px) {
+  .post_container {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 .text {
@@ -19,7 +22,7 @@ img {
 }
 </style>
 
-<div class="container">
+<div class="post_container">
       <div class="text" align="justify">
         Endotrachealintubation is a common medical practice for patients requiring upper airway management. An important parameter while performing intubation is the depth of insertion of the tube. However, most current solutions rely on vision-based feedback for successfully performing remote intubation. We propose a novel application of chip-less RF sensing technology to identify the intubation tube from the exterior and serve as an additional feedback modality, independent of the visual aid.
       </div>
