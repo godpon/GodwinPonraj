@@ -8,7 +8,8 @@ categories: media
   .post_container {
   display: flex;
   align-items: center;
-  justify-content: center
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .flex-item-left {
