@@ -13,12 +13,22 @@ categories: media
 
 .flex-item-left {
   flex: 50%;
+/*  background-color: darkred;
+  color: white; */
+  padding: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  justify-content: space-around;
 }
 
+/* Main column */
 .flex-item-right {
   flex: 50%;
+/*  background-color: darkblue;
+  color: white; */
+  padding: 5px;
+  align-content: space-around;
 }
-
 /* Responsive layout - makes a one column layout instead of a two-column layout */
 @media (max-width: 800px) {
   .flex-item-right, .flex-item-left {
