@@ -2,6 +2,7 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
+    {{ <i>post.contribution</i> }}
 <!--     <a href="{{ post.url | relative_url }}"> -->
       {{ post.excerpt }}
 <!--     </a>
