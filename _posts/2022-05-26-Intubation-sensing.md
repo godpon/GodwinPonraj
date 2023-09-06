@@ -3,7 +3,7 @@ title:  "Chip-Less Wireless Sensing of Endotracheal Intubation"
 mathjax: true
 layout: post
 categories: media
-contribution: Lead (Conceptualisation | Design | Experimentation | Characterisation | Writing)
+contribution: Contribution - (Conceptualisation | Design | Experimentation | Characterisation | Writing)
 ---
 <style>
   .post_container {
