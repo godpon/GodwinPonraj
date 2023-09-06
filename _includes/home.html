@@ -6,9 +6,8 @@
       {{ post.excerpt }}
 <!--     </a>
       {{ post.crux }} -->
-<!--     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div> -->
+    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
-<br>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
