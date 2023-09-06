@@ -45,7 +45,7 @@ crux: A novel application of chip-less RF sensing technology to identify the int
 
 </style>
 
-<div style="border: none; padding: none"><it>Contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation, Writing)</it></div><br>
+<div style="font-size:0.8em; border: 0px; padding: 0px"><it>Contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation, Writing)</it></div><br>
 <div class="post_container">
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" height = "100%">
