@@ -16,7 +16,7 @@
         <i>National University of Singapore</i><br>
         May’16 - Jul’19<br>
       </div>
-      <div class="main" align="left" style="border-left: 1px solid $color;">
+      <div class="main" align="left" style="border-left: 2px solid black;">
         Designed and fabricated piezoresistive tactile sensors, and worked on integration with soft robotic manipulators, and subsequent tactile based control.
         Collaborated with multiple research groups to demonstrate bimanual manipulation with tactile feedback capability.
       </div><br>
@@ -25,7 +25,7 @@
         <i>Micron Semiconductors</i><br>
         Jul’15 - Apr’16<br>
       </div>
-      <div class="main" align="left" style="border-left: 1px solid black;">
+      <div class="main" align="left" style="border-left: 2px solid black;">
         As a Run-to-Run control engineer, 
         implemented feedback and feed forward control 
         for several processes in the semiconductor chip fabrication workflow 
@@ -37,7 +37,7 @@
         <i>IBM India Pvt. Ltd.</i><br>
         Jun’13 – Jun’14<br>
       </div>
-      <div class="main" align="left" style="border-left: 1px solid color">
+      <div class="main" align="left" style="border-left: 2px solid gainsboro">
         Supported maintenance of product and customer details database 
         related to IBM’s commercial website 
         and resolved critical performance issues.
