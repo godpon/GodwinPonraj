@@ -3,7 +3,7 @@ author: "Godwin Ponraj"
 description: "Ph.D student, Biomedical Engineering"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!--more-->" # "\n\n\n"
 date_format: "%B, %Y"      # add %d to include date
 
 # Layout
