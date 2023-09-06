@@ -3,7 +3,7 @@ title:  "Chip-Less Wireless Sensing of Endotracheal Intubation"
 mathjax: true
 layout: post
 categories: media
-crux: A novel application of chip-less RF sensing technology to identify the intubation tube from the exterior and serve as a feedback modality.
+contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation, Writing)
 ---
 <style>
   .post_container {
