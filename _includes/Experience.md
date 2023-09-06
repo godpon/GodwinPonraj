@@ -16,7 +16,7 @@
         <i>National University of Singapore</i><br>
         May’16 - Jul’19<br>
       </div>
-      <div class="main" align="left" style="border-left-style: solid;">
+      <div class="main" align="left" style="border-left: 1px solid $color;">
         Designed and fabricated piezoresistive tactile sensors, and worked on integration with soft robotic manipulators, and subsequent tactile based control.
         Collaborated with multiple research groups to demonstrate bimanual manipulation with tactile feedback capability.
       </div><br>
