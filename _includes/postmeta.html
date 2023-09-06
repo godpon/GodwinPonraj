@@ -1,6 +1,43 @@
+<style>
+/* Column container */
+.headrow {  
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.date_left {
+  flex: 30%;
+/*  background-color: darkred;
+  color: white; 
+  padding: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  justify-content: space-around;*/
+}
+
+/* Right column */
+.contr_right {
+  flex: 70%;
+/*  background-color: darkblue;
+  color: white; 
+  padding: 5px;
+  align-content: space-around; */
+}
+</style>
 <header>
   <h1 style="margin-bottom: 0px"><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h1>
-  {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
-  <time datetime="{{ include.post.date | date_to_xmlschema }}" style="padding-bottom: 0px">{{ include.post.date | date: date_format }}</time>
-  <div align="right" style="margin: 0px; padding: 0px; border: 1px solid red;">{{ include.post.contribution }}</div>
+  <div class="headrow">
+  <div class="date_left" align="left">
+    {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+    <time datetime="{{ include.post.date | date_to_xmlschema }}" style="padding-bottom: 0px">{{ include.post.date | date: date_format }}</time>
+  </div>
+  <div class="contr_right" align="right">
+    <div align="right" style="margin: 0px; padding: 0px; border: 1px solid red;">{{ include.post.contribution }}</div>
+  </div>
+</div>
+  
+  
 </header>
