@@ -27,8 +27,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/godpon"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com.sg/citations?user=CRLrkQUAAAAJ&hl=en"}
 
-paginate: 3
-paginate_path: "/GodwinPonraj/page:num/"
+paginate: 5
+# paginate_path: "/GodwinPonraj/page:num/"
 
 # Copied from example jekyl documentation
 # # Explicitly turn off the old code
