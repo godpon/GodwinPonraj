@@ -3,6 +3,7 @@ title:  "Chip-Less Wireless Sensing with Kirigami using Ink-Jet Printable Materi
 mathjax: true
 layout: post
 categories: media
+contribution: Lead Contributer [<i>Conceptualisation</i> | <i>Design</i> | <i>Experimentation</i> | <i>Characterisation</i> | <i>Writing</i>]
 ---
 <style>
   .post_container {
