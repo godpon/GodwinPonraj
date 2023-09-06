@@ -28,7 +28,7 @@ img {
       </div>
 </div>
 
-
+<!--more-->
 Simulation results show that the proposed kirigami structure for the bracelet has a large deformation during actuation while experiencing relatively lower stress. The paper also presents a comparative study on a few machine learning algorithms to classify hand gestures, based on the measured skin impedance. The best classification accuracy (91.49%) was observed from the quadratic support vector machine (SVM) algorithm with 48 principal components.
 
 <div style="background-color: Gainsboro; color: black; padding:10px;">
