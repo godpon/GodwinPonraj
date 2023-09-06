@@ -50,8 +50,7 @@ crux: A novel application of chip-less RF sensing technology to identify the int
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" height = "100%">
       </div>
-  
-  
+      <!--more-->
       <div class="flex-item-text" align="justify" style="padding-right:0px">
         Endotrachealintubation is a common medical practice for patients requiring upper airway management. An important parameter while performing intubation is the depth of insertion of the tube. However, most current solutions rely on vision-based feedback for successfully performing remote intubation. We propose a novel application of chip-less RF sensing technology to identify the intubation tube from the exterior and serve as an additional feedback modality, independent of the visual aid.
       </div>
