@@ -17,6 +17,7 @@ categories: media
   flex: 38%;
 /*  background-color: darkred;
   color: white; */
+  border: 1px solid red;
   padding: 5px;
   padding-top: 0px;
   padding-bottom: 0px;
@@ -28,6 +29,7 @@ categories: media
   flex: 58%;
 /*  background-color: darkblue;
   color: white; */
+  border: 1px solid blue;
   padding: 5px;
   align-content: space-around;
 }
