@@ -27,24 +27,24 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/godpon"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com.sg/citations?user=CRLrkQUAAAAJ&hl=en"}
 
-# paginate: 3
-# paginate_path: "/GodwinPonraj/page:num/"
+paginate: 3
+paginate_path: "/GodwinPonraj/page:num/"
 
 # Copied from example jekyl documentation
-# Explicitly turn off the old code
-paginate: nil
-paginate_path: nil
+# # Explicitly turn off the old code
+# paginate: nil
+# paginate_path: nil
 
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 3
-  offset: 2
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+# # Pagination Settings
+# pagination:
+#   enabled: true
+#   per_page: 3
+#   offset: 2
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
