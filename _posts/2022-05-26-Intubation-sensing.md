@@ -14,7 +14,7 @@ categories: media
 }
 
 .flex-item-text {
-  flex: 48%;
+  flex: 38%;
 /*  background-color: darkred;
   color: white; */
   padding: 5px;
@@ -25,7 +25,7 @@ categories: media
 
 /* Main column */
 .flex-item-pic {
-  flex: 48%;
+  flex: 58%;
 /*  background-color: darkblue;
   color: white; */
   padding: 5px;
