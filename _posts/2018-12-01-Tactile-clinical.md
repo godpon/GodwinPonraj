@@ -59,7 +59,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
 </div>
 
 <!--more-->
-Successful cadaver experiments have shown that the system developed herein will be of effective in providing tactile sensing assistance to clinicians and dentists in the near future. Further the sensor was also tested on two other custom built surgical devices - an origami-layer-jamming based retractor and a drug-delivery module. The sensor showed a sensitivity of 0.833 N^{−1} and a drift of ≤1%. 
+Successful cadaver experiments have shown that the system developed herein will be of effective in providing tactile sensing assistance to clinicians and dentists in the near future. Further the sensor was also tested on two other custom built surgical devices - an origami-layer-jamming based retractor and a drug-delivery module. The sensor showed a sensitivity of 0.833 N<sup>−1</sup> and a drift of ≤1%. 
 
 <div style="padding:10px; border-left: 5px solid darkgray">
 <u>Related Publications:</u><br>
