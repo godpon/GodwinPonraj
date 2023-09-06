@@ -1,12 +1,9 @@
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
-    {% include postmeta.html post=post preview=true %}
-<!--     <i>{{ post.contribution }}</i> -->
-<!--     <a href="{{ post.url | relative_url }}"> -->
-      {{ post.excerpt }}
-<!--     </a>
-      {{ post.crux }} -->
+    {% include postmeta.html post=post preview=true %}{{ post.excerpt }}
+<!--     <i>{{ post.contribution }}</i>                 -->
+<!--     <a href="{{ post.url | relative_url }}"> </a>  -->
     <div class="more" align = "right"><a href="{{ post.url | relative_url }}">Read more...</a></div>
   </article>
 {% endfor %}
