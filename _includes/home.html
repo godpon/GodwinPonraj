@@ -2,11 +2,11 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    <a href="{{ post.url | relative_url }}">
+<!--     <a href="{{ post.url | relative_url }}"> -->
       {{ post.excerpt }}
-    </a>
-      {{ post.crux }}
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+<!--     </a>
+      {{ post.crux }} -->
+<!--     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div> -->
   </article>
 {% endfor %}
 
