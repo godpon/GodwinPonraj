@@ -1,5 +1,5 @@
 ---
-title:  "Soft Piezoresistive Tactile Sensors for Surgical Tools"
+title:  "Soft Piezoresistive Tactile Sensors for Clinical and Surgical Tools"
 mathjax: true
 layout: post
 categories: media
