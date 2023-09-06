@@ -17,8 +17,8 @@ categories: media
 .flex-item-text {
   flex: 35%;
   border: 1px solid blue;
-  padding-left:1.5em
-  padding-right:1.5em
+  padding-left:1em;
+  padding-right:1em;
   justify-content: space-around;
 }
 
