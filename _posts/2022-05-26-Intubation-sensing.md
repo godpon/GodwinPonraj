@@ -44,9 +44,11 @@ contribution: Contribution - (Conceptualisation | Design | Experimentation | Cha
 }
 
 </style>
-<div align="right" style="margin-top: 0px; width:70% padding-top: 0px; border: 1px solid blue;">
+<!--
+<div align="right" style="margin-top: 0px; padding-top: 0px;">
   Contribution: Lead (Conceptualisation | Design | Experimentation | Characterisation | Writing)
 </div>
+-->
 <div class="post_container">
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" height = "100%">
