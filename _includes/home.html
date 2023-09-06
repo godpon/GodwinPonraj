@@ -3,12 +3,9 @@
   <article>
     {% include meta.html post=post preview=true %}
     <a href="{{ post.url | relative_url }}">
-      <h1>{{ post.title }}</h1>
-      {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
       {{ post.excerpt }}
-      {{ post.crux }}
     </a>
+      {{ post.crux }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
