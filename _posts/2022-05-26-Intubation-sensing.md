@@ -50,13 +50,12 @@ crux: A novel application of chip-less RF sensing technology to identify the int
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" height = "100%">
       </div>
-      <!--more-->
       <div class="flex-item-text" align="justify" style="padding-right:0px">
         Endotrachealintubation is a common medical practice for patients requiring upper airway management. An important parameter while performing intubation is the depth of insertion of the tube. However, most current solutions rely on vision-based feedback for successfully performing remote intubation. We propose a novel application of chip-less RF sensing technology to identify the intubation tube from the exterior and serve as an additional feedback modality, independent of the visual aid.
       </div>
 </div>
 
-
+<!--more-->
 We used printable silver conductive ink to fabricate flexible RF antennas to be deployed on the Endotracheal (ET) intubation tubes. An interrogating antenna, connected to a network analyzer, placed on top of the neck can identify the RF antenna inside the trachea during intubation in real-time. A prototype design was developed and tested with various wireless channel mediums (air, water, phantom models, and duck neck). Seven human subjects were involved in another experiment that used human fingers as a wireless medium between the antennas. Experimental results show that the proposed method can identify the presence of ET tubes by registering a significant change in the return loss magnitude (2.21 dB in phantom model and an average of 1.16 dB in human experiments) across all the mediums. The proposed sensing solution can be used as a viable feedback parameter for robotic control systems that aim to automate intubation with or without visual feedback.
 
 <div style="background-color: Gainsboro; color: black; padding:10px;">
