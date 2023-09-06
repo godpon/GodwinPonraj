@@ -16,9 +16,9 @@ categories: media
 .flex-item-text {
   flex: 38%;
 /*  background-color: darkred;
-  color: white; */
+  color: white;
   border: 1px solid red;
-/*   padding: 5px; */
+  padding: 5px; */
   padding-top: 0px;
   padding-bottom: 0px;
   justify-content: space-around;
@@ -28,8 +28,8 @@ categories: media
 .flex-item-pic {
   flex: 58%;
 /*  background-color: darkblue;
-  color: white; */
-  border: 1px solid blue;
+  color: white; 
+  border: 1px solid blue; */
   padding: 5px;
   align-content: space-around;
 }
