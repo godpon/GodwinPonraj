@@ -14,7 +14,7 @@ categories: media
 }
 
 .flex-item-text {
-  flex: 38%;
+  flex: 35%;
 /*  background-color: darkred;
   color: white;
   border: 1px solid red;
