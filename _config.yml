@@ -28,6 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com.sg/citations?user=CRLrkQUAAAAJ&hl=en"}
 
 paginate: 3
+paginate_path: "/GodwinPonraj/page:num/"
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
