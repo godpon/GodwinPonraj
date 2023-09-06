@@ -15,46 +15,31 @@ categories: media
 
 .flex-item-text {
   flex: 35%;
-/*  background-color: darkred;
-  color: white;
-  border: 1px solid red;
-  padding: 5px; */
-  padding-top: 0px;
-  padding-bottom: 0px;
   justify-content: space-around;
 }
 
 /* Main column */
 .flex-item-pic {
   flex: 58%;
-/*  background-color: darkblue;
-  color: white; 
-  border: 1px solid blue; */
+/*  border: 1px solid blue; */
   padding: 5px;
   align-content: space-around;
 }
-/* Responsive layout - makes a one column layout instead of a two-column layout */
-/*@media (max-width: 800px) {
-  .flex-item-right, .flex-item-left {
-    flex: 100%;
-  }*/
 
+/* Responsive layout - makes a one column layout instead of a two-column layout */
 @media (max-width: 800px) {
   .post_container {
     flex-direction: column;
   }
 }
 
-.text {
-  padding-right: 20px;
-}
 </style>
 
 <div class="post_container">
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" max-width = "800px" height = "100%">
       </div>
-      <div class="flex-item-text" align="justify">
+      <div class="flex-item-text" align="justify" style="padding-left:1.5em">
         Endotrachealintubation is a common medical practice for patients requiring upper airway management. An important parameter while performing intubation is the depth of insertion of the tube. However, most current solutions rely on vision-based feedback for successfully performing remote intubation. We propose a novel application of chip-less RF sensing technology to identify the intubation tube from the exterior and serve as an additional feedback modality, independent of the visual aid.
       </div>
 </div>
