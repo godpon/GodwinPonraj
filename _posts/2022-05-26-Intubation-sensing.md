@@ -16,7 +16,7 @@ categories: media
 /* Set padding-left or padding-right equal to 0 in main code */
 .flex-item-text {
   flex: 35%;
-  border: 1px solid blue;
+/*   border: 1px solid blue; */
   padding-left:1em;
   padding-right:1em;
   justify-content: space-around;
