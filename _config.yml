@@ -27,6 +27,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/godpon"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com.sg/citations?user=CRLrkQUAAAAJ&hl=en"}
 
+paginate: 3
+
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
