@@ -44,7 +44,7 @@ contribution: Contribution - (Conceptualisation | Design | Experimentation | Cha
 }
 
 </style>
-<div align="right" style="margin-top: 0px; padding-top: 0px;">
+<div align="right" style="margin-top: 0px; width:70% padding-top: 0px; border: 1px solid blue;">
   Contribution: Lead (Conceptualisation | Design | Experimentation | Characterisation | Writing)
 </div>
 <div class="post_container">
