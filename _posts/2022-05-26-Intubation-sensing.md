@@ -35,7 +35,7 @@ categories: media
     flex-direction: column;
   }
   .flex-item-text{
-    padding: 0px;
+    padding-right: 0px;
   }
 }
 
