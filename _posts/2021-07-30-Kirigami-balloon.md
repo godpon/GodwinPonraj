@@ -3,6 +3,7 @@ title:  "Kirigami strain sensing for Balloon Catheters"
 mathjax: true
 layout: post
 categories: media
+contribution: Supporting role ( <i>Validation</i> | <i>Supervision</i> | <i>Editing</i> )
 ---
 <style>
   .post_container {
