@@ -45,7 +45,6 @@ contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation
 
 </style>
 
-<i style="font-size:0.8em; margin: 0px; padding: 0px">Contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation, Writing)</i><br>
 <div class="post_container">
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_ETtube_sch.jpg" height = "100%">
@@ -57,6 +56,8 @@ contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation
 
 <!--more-->
 We used printable silver conductive ink to fabricate flexible RF antennas to be deployed on the Endotracheal (ET) intubation tubes. An interrogating antenna, connected to a network analyzer, placed on top of the neck can identify the RF antenna inside the trachea during intubation in real-time. A prototype design was developed and tested with various wireless channel mediums (air, water, phantom models, and duck neck). Seven human subjects were involved in another experiment that used human fingers as a wireless medium between the antennas. Experimental results show that the proposed method can identify the presence of ET tubes by registering a significant change in the return loss magnitude (2.21 dB in phantom model and an average of 1.16 dB in human experiments) across all the mediums. The proposed sensing solution can be used as a viable feedback parameter for robotic control systems that aim to automate intubation with or without visual feedback.
+
+<i style="font-size:0.8em; margin: 0px; padding: 0px">Contribution: Lead (Conceptualisation, Design, Experimentation, Characterisation, Writing)</i><br>
 
 <div style="padding:10px; border-left: 5px solid darkgray">
 <u>Related Publication:</u><br>
