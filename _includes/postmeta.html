@@ -9,18 +9,12 @@
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .date_left {
-  flex: 30%;
-/*  background-color: darkred;
-  color: white; 
-  padding: 5px;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  justify-content: space-around;*/
+  flex: 15%;
 }
 
 /* Right column */
 .contr_right {
-  flex: 70%;
+  flex: 80%;
 /*  background-color: darkblue;
   color: white; 
   padding: 5px;
@@ -35,7 +29,8 @@
     <time datetime="{{ include.post.date | date_to_xmlschema }}" style="padding-bottom: 0px">{{ include.post.date | date: date_format }}</time>
   </div>
   <div class="contr_right" align="right">
-    <div align="right" style="margin: 0px; padding: 0px; border: 1px solid red;">{{ include.post.contribution }}</div>
+<!--     <div align="right" style="margin: 0px; padding: 0px; border: 1px solid red;">{{ include.post.contribution }}</div> -->
+    {{ include.post.contribution }}
   </div>
 </div>
   
