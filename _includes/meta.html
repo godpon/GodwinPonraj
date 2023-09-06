@@ -2,5 +2,5 @@
   <h1 style="padding-bottom: 0px"><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h1>
   {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
   <time datetime="{{ include.post.date | date_to_xmlschema }}" style="padding-bottom: 0px">{{ include.post.date | date: date_format }}</time>
-  <div align="right" style="margin: 0px; padding: 0px;">Contribution: <i>{{ include.post.contribution }}</i></div>
+  <div align="right" style="margin: 0px; padding: 0px;">Contribution: <u>{{ include.post.contribution }}</u></div>
 </header>
