@@ -74,7 +74,7 @@ Maximum return loss occurs when the distance between the two antennas is minimum
 
 <div class="post_container">
       <div class="flex-item-pic">
-        <video width="100%" height= "100%" autoplay>
+        <video width="100%" height= "100%" controls>
           <source src="/GodwinPonraj/assets/Vid_ETtube_sensing.mp4" type="video/mp4">
           Your browser does not support mp4 video tag.
         </video>
