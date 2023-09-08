@@ -65,3 +65,6 @@ We used printable silver conductive ink to fabricate flexible RF antennas to be 
 <u>Related Publication:</u><br>
 <b><i>G. Ponraj</i></b>, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2369-2376, April 2022, <a href = "https://ieeexplore.ieee.org/document/9676421/">doi: 10.1109/LRA.2022.3141664</a>.
 </div>
+
+The proposed sensing scheme consists of a reading side and a sensing side. In the sensing side the antenna is mounted on to the ET tube behind the inflatable balloon. Whereas in the reading antenna is fixed at a desired location on the throat region externally. The reading antenna is connected to a vector network analyzer (VNA) which is in turn connected to a PC.
+
