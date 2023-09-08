@@ -66,8 +66,8 @@ We used printable silver conductive ink to fabricate flexible RF antennas to be 
 <b><i>G. Ponraj</i></b>, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2369-2376, April 2022, <a href = "https://ieeexplore.ieee.org/document/9676421/">doi: 10.1109/LRA.2022.3141664</a>.
 </div>
 
-The proposed sensing scheme consists of a reading side and a sensing side. In the sensing side the antenna is mounted on to the ET tube behind the inflatable balloon. Whereas in the reading antenna is fixed at a desired location on the throat region externally. The reading antenna is connected to a vector network analyzer (VNA) which is in turn connected to a PC.
-The Vector Network Analyzer or VNA generates a stimulus signal and monitors the reflected power level. When in vicinity, the sensing antenna absorbs varying levels of power across the frequency spectrum.
+The proposed sensing scheme consists of a reading side and a sensing side. In the sensing side the antenna is mounted on to the ET tube behind the inflatable balloon. Whereas in the reading antenna is fixed at a desired location on the throat region externally. The reading antenna is connected to a Vector Network Analyzer (VNA) which is in turn connected to a PC.
+The VNA generates a stimulus signal and monitors the reflected power level. When in vicinity, the sensing antenna absorbs varying levels of power across the frequency spectrum.
 The frequency at which the antenna absorbs maximum power from the signal, is known as the resonant frequency.
 The objective here is to identify the resonant frequency and track the return loss level. 
 Maximum return loss occurs when the distance between the two antennas is minimum that is during concentric alignment of the sensing and transmitting antennas.
