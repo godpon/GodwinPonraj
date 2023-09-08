@@ -72,3 +72,14 @@ The frequency at which the antenna absorbs maximum power from the signal, is kno
 The objective here is to identify the resonant frequency and track the return loss level. 
 Maximum return loss occurs when the distance between the two antennas is minimum that is during concentric alignment of the sensing and transmitting antennas.
 
+<div class="post_container">
+      <div class="flex-item-pic">
+        <video width="100%" height= "100%" autoplay>
+          <source src="/GodwinPonraj/assets/Vid_ETtube_sensing.mp4" type="video/mp4">
+          Your browser does not support mp4 video tag.
+        </video>
+      </div>
+      <div class="flex-item-text" align="justify" style="padding-right:0px">
+        Video shows the proposed sensing scheme in a human phantom model. The return loss at resonant frequency marked by the red circle changes and peaks whenever the sensing antenna is the closest to the reading antenna.
+      </div>
+</div>
