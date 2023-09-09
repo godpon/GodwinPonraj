@@ -62,9 +62,11 @@ Simulation results show that the proposed kirigami structure for the bracelet ha
         <img src="/GodwinPonraj/assets/Fig_Kiri_bracelet_solidworks.jpg" width = "100%" height = "100%">
       </div>
       <div class="flex-item-text" align="justify" style="padding-right:0px">
-        The kirigami patterns considered were to realize a “popping-up” effect, where a central platform is raised from the base when an extension force is applied along its longitudinal axis. The design was simulated in SolidWorks to understand their stress–strain relationship.
+        The kirigami patterns considered were to realize a “popping-up” effect, where a central platform is raised from the base when an extension force is applied along its longitudinal axis. The design was simulated in SolidWorks to understand their stress–strain relationship. The prototype was fabricated using an A4 size paper with eight of the flat platform kirigami structures along its length.
       </div>
 </div>
+
+The electrodes are made up of PEDOTS: PSS — a flexible, stretchable, and conductive polymer with high ductility. The ability to stretch enables the electrode to be subjected to mechanical deformations such as twisting, shearing, bending, folding, and large tensile strains
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
