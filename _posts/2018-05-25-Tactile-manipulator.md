@@ -61,7 +61,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
 <!--more-->
 <div class="post_container">
       <div class="flex-item-text" align="justify" style="padding-left:0px">
-        To hold an object firmly and do the required task, the orientation of the object with respect to the robotic hand gripper is one of the necessary key information. Humans can sense the orientation of an object based on vision, kinesthetic sensation, or touch sensation. Similarly, robots shall also be able to estimate grasped object orientation just based on tactile sensing without knowing manipulator kinesthetic or kinematics. A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Fabric based sensors are flexible and can confer to both hard and soft surfaces easily.  
+        To hold an object firmly and do the required task, the orientation of the object with respect to the robotic hand gripper is one of the necessary key information. Humans can sense the orientation of an object based on vision, kinesthetic sensation, or touch sensation. Similarly, robots shall also be able to estimate grasped object orientation just based on tactile sensing without knowing manipulator kinesthetic or kinematics. 
       </div>
       <div class="flex-item-pic">
         <video width="100%" height= "100%" controls>
@@ -71,6 +71,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
       </div>
 </div>
 
+A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Fabric based sensors are flexible and can confer to both hard and soft surfaces easily.  
 
 The feedback control is demonstrated in a cutting task wherein the tactile sensor data was used to identify the different cutting phases. 
 
