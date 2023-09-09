@@ -71,7 +71,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
       </div>
 </div>
 
-A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Fabric based sensors are flexible and can confer to both hard and soft surfaces easily.  
+A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Video above shows the proposed mechanism of tilt sensing based on the tactile sensor inputs. Fabric based sensors are flexible and can confer to both hard and soft surfaces easily.  
 
 The feedback control is demonstrated in a cutting task wherein the tactile sensor data was used to identify the different cutting phases. 
 
