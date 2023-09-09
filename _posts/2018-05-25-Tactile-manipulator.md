@@ -71,9 +71,23 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
       </div>
 </div>
 
-A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Video above shows the proposed mechanism of tilt sensing based on the tactile sensor inputs. Fabric based sensors are flexible and can confer to both hard and soft surfaces easily.  
+A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Video above shows the proposed mechanism of tilt sensing based on the tactile sensor inputs. 
 
-The feedback control is demonstrated in a cutting task wherein the tactile sensor data was used to identify the different cutting phases. 
+<div class="post_container">
+      <div class="flex-item-pic">
+        <video width="100%" height= "100%" controls>
+          <source src="/GodwinPonraj/assets/Vid_bread_cutting.mp4" type="video/mp4">
+          Your browser does not support mp4 video.
+        </video>
+      </div>
+      <div class="flex-item-text" align="justify" style="padding-right:0px">
+        The feedback control is demonstrated in a cutting task wherein the tactile sensor data was used to identify the different cutting phases. A completely fabric based sensor was used in this task by using conductive fabric instead of printed traces on PET substrate. Fabric based sensors are flexible, stretchable and can confer to both hard and soft surfaces easily. The task at hand is to cut a slice of bread and stop automatically when the knife hits the cutting board. 
+      </div>
+</div>
+
+A soft pneumatically controlled robotic gripper similar to that in was used to grab the knife and cut the bread. The tactile sensor is attached to the interior surface of one of the fingers of the soft robotic gripper holding the knife. The force exerted by the hand while the cutting action was performed was monitored continuously via the sensor reading. The sensor measured a periodic pattern during the cutting process due to the change in force exerted by the knife on the tactile sensor during the to and fro motions of the cutting action. When the knife hits the board, the amplitude of the signal reduces due to the relatively smoother surface of the cutting board. This change in pattern of the sensor reading is used to detect the point when to stop the cutting action. 
+
+The tactile sensors developed in this project formed the basis of several other tactile based projects in the future. Some examples include providing tactile feedback for soft-material enhanced gripper for manipulation of fragile and soft objects, slip detection and correction, tactile sensing for clinical and surgical devices, etc.
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publications:</u><br>
