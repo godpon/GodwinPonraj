@@ -3,7 +3,7 @@ title:  "Kirigami Bracelet to measure Skin Impedance & Classify Hand Gestures"
 mathjax: true
 layout: post
 categories: media
-contribution: Lead Contributer ( <i>Conceptualisation</i> | <i>Software</i> | <i>Validation</i> | <i>Supervision</i> | <i>Writing</i> )
+contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Software</i> | <i>Validation</i> | <i>Supervision</i> | <i>Writing</i> )
 ---
 <style>
   .post_container {
