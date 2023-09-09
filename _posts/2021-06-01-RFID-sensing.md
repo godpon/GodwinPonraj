@@ -59,14 +59,7 @@ We use an office-based inkjet printer to produce the antenna traces using silver
 
 RFID works based on the modulation of a reflected signal at a tag’s resonant frequency ($$𝑓_{𝑟𝑒𝑠}$$). This tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the resonant frequency formula:
 
-<math>
-$𝑓_{𝑟𝑒𝑠} = <mfrac>
-  1
-  2{\pi}<sqrt>𝐿𝐶</sqrt>}$
-</mfrac>
-</math>
-
-$$f_{res} = \frac{1}{2 \pi \sqrt{LC} }$$
+$$f_{res} = \frac{1}{2 \pi \sqrt{LC} } ; 𝑄 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶} $$
 
 The transmission strength and resonant frequency of RFIDs are affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance.
 $$𝑄 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶}$$
