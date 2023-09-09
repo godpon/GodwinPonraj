@@ -77,7 +77,7 @@ This property is exploited to introduce various sensing modalities into the ante
 When a normal force is applied the dielectric medium is deformed, disrupting the electric field distribution and capacitive coupling between the conductive traces. The compression sensor consists of a circular spiral antenna with cuts introduced between each turn. This kirigami-inspired design allows the spiral to expand in a direction normal to its surface. As the pyramid is compressed, the vertical distance between the individual antenna loops decreases, increasing the coil trace’s mutual inductance, which changes the antenna’s resonant frequency. The extension sensor design uses a round tag with spiral antenna design and a long strip extention at the end. The straight conductor was folded in alternative mountain and valley folds to form the sensing element. Similarly, a bend sensor was fabricated using a squareslinky kirigami design as the basis. An L-shaped substrate is folded over itself in alternating mountain and valley folds.
 
 <div class="post_container">
-      <div class="flex-item-text" align="justify" style="padding-right:0px">
+      <div class="flex-item-text" align="justify" style="padding-left:0px">
         Capacitive tactile sensors can be used as contact identification devices or force limiting devices in robotic applications. Due to the PET substrate's flexible nature, the sensors can be designed to be compliant with the robot’s morphology. Advanced tactile sensor applications such as closed-loop control for robotic object grasping tasks, object orientation estimation and slip estimation. It could also be made wireless by integrating simple antenna coil trace designs and functional sensor traces.
       </div>
   <div class="flex-item-pic">
