@@ -74,7 +74,7 @@ This property is exploited to introduce various sensing modalities into the ante
       </div>
 </div>
 
-When a normal force is applied the dielectric medium is deformed, disrupting the electric field distribution and capacitive coupling between the conductive traces. The compression sensor consists of a circular spiral antenna with cuts introduced between each turn. This kirigami-inspired design allows the spiral to expand in a direction normal to its surface. As the pyramid is compressed, the vertical distance between the individual antenna loops decreases, increasing the coil trace’s mutual inductance, which changes the antenna’s resonant frequency.
+When a normal force is applied the dielectric medium is deformed, disrupting the electric field distribution and capacitive coupling between the conductive traces. The compression sensor consists of a circular spiral antenna with cuts introduced between each turn. This kirigami-inspired design allows the spiral to expand in a direction normal to its surface. As the pyramid is compressed, the vertical distance between the individual antenna loops decreases, increasing the coil trace’s mutual inductance, which changes the antenna’s resonant frequency. The extension sensor design uses a round tag with spiral antenna design and a long strip extention at the end. The straight conductor was folded in alternative mountain and valley folds to form the sensing element. Similarly, a bend sensor was fabricated using a squareslinky kirigami design as the basis. An L-shaped substrate is folded over itself in alternating mountain and valley folds.
 
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
