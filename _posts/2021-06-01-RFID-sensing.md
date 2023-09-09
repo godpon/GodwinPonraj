@@ -3,7 +3,7 @@ title:  "Chip-Less Wireless Sensing with Kirigami using Ink-Jet Printable Materi
 mathjax: true
 layout: post
 categories: media
-contribution: Lead Contributer ( <i>Conceptualisation</i> | <i>Fabrication</i> | <i>Characterisation</i> | <i>Writing</i> )
+contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Fabrication</i> | <i>Characterization</i> | <i>Writing</i> )
 ---
 <style>
   .post_container {
@@ -59,11 +59,11 @@ We use an office-based inkjet printer to produce the antenna traces using silver
 
 RFID works based on the modulation of a reflected signal at a tag’s resonant frequency ($$𝑓_{𝑟𝑒𝑠}$$). This tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the resonant frequency formula:
 
-$$ 𝑓_{𝑟𝑒𝑠} = 1/2𝜋√𝐿𝐶  $$
+$$𝑓_{𝑟𝑒𝑠} = 1/2𝜋√𝐿𝐶$$
 
 The transmission strength and resonant frequency of RFIDs are affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance.
 
-$$ 𝑄 = 𝑓𝑟𝑒𝑠𝐿𝑅 = 𝑋𝐿𝑅 = 𝑋𝐶𝑅 = 1𝑅√𝐿𝐶 $$
+$$𝑄 = 𝑓𝑟𝑒𝑠𝐿𝑅 = 𝑋𝐿𝑅 = 𝑋𝐶𝑅 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶}$$
 
 This property is exploited to introduce various sensing modalities into the antenna. A change in the physical property is transduced into a change in the sensor’s resistance or capacitance. When connected to an antenna, this change is reflected as a change in transmission power and frequency
 
