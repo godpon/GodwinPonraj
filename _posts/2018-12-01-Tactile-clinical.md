@@ -61,7 +61,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
 <!--more-->
 Tactile sensing in surgical robotics is focused mainly on studying the interactions between the confined tissue environments and the instruments based on contact information. Successful cadaver experiments have shown that the system developed herein will be of effective in providing tactile sensing assistance to clinicians and dentists in the near future. Further the sensor was also tested on two other custom built surgical devices - an origami-layer-jamming based retractor and a drug-delivery module. The sensor showed a sensitivity of 0.833 N<sup>−1</sup> and a drift of ≤1%. 
 
-<div style="padding:10px; border-left: 5px solid darkgray">
+<div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publications:</u><br>
 <ol>
 <li><b><i>G. Ponraj</i></b>, S. K. Kirthika, C. M. Lim, and H. Ren, “Soft tactile sensors with inkjet-printing conductivity and hydrogel biocompatibility for retractors in cadaveric surgical trials,” IEEE Sens. J., vol. 18, no. 23, pp. 9840–9847, Dec. 2018, <a href="https://ieeexplore.ieee.org/document/8468236">doi: 10.1109/JSEN.2018.2871242</a>.</li>
