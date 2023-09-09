@@ -57,21 +57,15 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Fabrication</i> |
 <!--more-->
 We use an office-based inkjet printer to produce the antenna traces using silver conductive ink. Kirigami-inspired designs are used to produce four sensors responsive to various mechanical stimuli commonly used for DIY robotic projects (contact, compression, extension, and bend). We demonstrate sensing and wireless transmission of the detected mechanical stimuli through the proposed chipless sensor tags with reliable consistency. The tags can be replicated quickly with the inkjet-printing method. This paper also contains analyses on the effects of varying the dimensions and electrical parameters of the tags. The developed antennas in this work can be used as wireless mechano-responsive sensors for robotic applications.
 
-RFID works based on the modulation of a reflected signal at a tag’s resonant frequency ($$𝑓_{𝑟𝑒𝑠}$$). This tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the resonant frequency formula:
+RFID works based on the modulation of a reflected signal at a tag’s resonant frequency ($$𝑓_{𝑟𝑒𝑠}$$). The transmission strength and resonant frequency of RFIDs are also affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance. Thus tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the formulae for resonant frequency and quality factor:
 
-$$f_{res} = \frac{1}{2 \pi \sqrt{LC} } ; 𝑄 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶} $$
+$$f_{res} = \frac{1}{2 \pi \sqrt{LC} } ;     𝑄 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶} $$
 
-The transmission strength and resonant frequency of RFIDs are affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance.
-$$𝑄 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶}$$
-This property is exploited to introduce various sensing modalities into the antenna. A change in the physical property is transduced into a change in the sensor’s resistance or capacitance. When connected to an antenna, this change is reflected as a change in transmission power and frequency
+This property is exploited to introduce various sensing modalities into the antenna. A change in the physical property is transduced into a change in the sensor’s resistance or capacitance. Together with the antenna, this change is reflected as a change in transmission power and frequency.
 
-## MathJax
+## Sensing Prototypes
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
+Four sensor prototypes were made, designed to respond to different mechanical stimuli - a capacitance-based tactile sensor, an inductance based compression sensor, an extension sensor and a bend sensor.
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
