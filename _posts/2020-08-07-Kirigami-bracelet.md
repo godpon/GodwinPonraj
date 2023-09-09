@@ -58,15 +58,15 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Software</i> | <i
 Simulation results show that the proposed kirigami structure for the bracelet has a large deformation during actuation while experiencing relatively lower stress. The paper also presents a comparative study on a few machine learning algorithms to classify hand gestures, based on the measured skin impedance. The best classification accuracy (91.49%) was observed from the quadratic support vector machine (SVM) algorithm with 48 principal components.
 
 <div class="post_container">
+      <div class="flex-item-text" align="justify" style="padding-left:0px">
+        The kirigami patterns considered were to realize a “<emph>popping-up</emph>” effect, where a central platform is raised from the base when an extension force is applied along its longitudinal axis. The design was simulated in SolidWorks to understand their stress–strain relationship. The prototype was fabricated using an A4 size paper with eight of the flat platform kirigami structures along its length. The electrodes are made up of PEDOTS: PSS — a flexible, stretchable, and conductive polymer with high ductility. The ability to stretch enables the electrode to be subjected to mechanical deformations such as twisting, shearing, bending, folding, and large tensile strains. 
+      </div>
       <div class="flex-item-pic">
         <img src="/GodwinPonraj/assets/Fig_Kiri_bracelet_solidworks.jpg" width = "100%" height = "100%">
       </div>
-      <div class="flex-item-text" align="justify" style="padding-right:0px">
-        The kirigami patterns considered were to realize a “<emph>popping-up</emph>” effect, where a central platform is raised from the base when an extension force is applied along its longitudinal axis. The design was simulated in SolidWorks to understand their stress–strain relationship. The prototype was fabricated using an A4 size paper with eight of the flat platform kirigami structures along its length.
-      </div>
 </div>
 
-The electrodes are made up of PEDOTS: PSS — a flexible, stretchable, and conductive polymer with high ductility. The ability to stretch enables the electrode to be subjected to mechanical deformations such as twisting, shearing, bending, folding, and large tensile strains. The device is wrapped around the forearm, such that all eight electrodes contact the skin. The data acquisition system consists of a galvanic skin response (GSR) sensor, two 8-channel analog multiplexers, and an Arduino controller. The GSR sensor is used to measure the skin conductivity between two points. The conductivity is measured between all possible combinations of the eight electrodes by the help of two multiplexers each for a lead from the GSR sensor. The resultant 64 data points constitute a single data frame. The dataset collected from each gesture is fed into different machine learning algorithms to compare their performance in classifying the various hand gestures.
+The device is wrapped around the forearm, such that all eight electrodes contact the skin. The data acquisition system consists of a galvanic skin response (GSR) sensor, two 8-channel analog multiplexers, and an Arduino controller. The GSR sensor is used to measure the skin conductivity between two points. The conductivity is measured between all possible combinations of the eight electrodes by the help of two multiplexers each for a lead from the GSR sensor. The resultant 64 data points constitute a single data frame. The dataset collected from each gesture is fed into different machine learning algorithms to compare their performance in classifying the various hand gestures.
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
