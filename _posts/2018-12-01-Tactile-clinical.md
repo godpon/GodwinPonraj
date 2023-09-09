@@ -54,12 +54,12 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
         <img src="/GodwinPonraj/assets/Fig_Tact_surgical.jpg" height = "100%">
       </div>
       <div class="flex-item-text" align="justify" style="padding-right:0px">
-        Most surgical tools rely on direct visual feedback to guide the clinician through a procedure. However, a tactile sense of palpation or device-tissue interactions would greatly assist in improving the control and safety with better precision. Tactile sensing in surgical robotics is focused mainly on studying the interactions between the confined tissue environments and the instruments based on contact information. This work explains the design, fabrication, and working of one such soft tactile sensor made using a flexible piezoresistive material and conductive ink, and then wrapped with a biocompatible hydrogel polymer matrix for safer human-tissue interactions. 
+        Most surgical tools rely on direct visual feedback to guide the clinician through a procedure. However, a tactile sense of palpation or device-tissue interactions would greatly assist in improving the control and safety with better precision. This work explains the design, fabrication, and working of one such soft tactile sensor made using a flexible piezoresistive material and conductive ink, and then wrapped with a biocompatible hydrogel polymer matrix for safer human-tissue interactions. 
       </div>
 </div>
 
 <!--more-->
-Successful cadaver experiments have shown that the system developed herein will be of effective in providing tactile sensing assistance to clinicians and dentists in the near future. Further the sensor was also tested on two other custom built surgical devices - an origami-layer-jamming based retractor and a drug-delivery module. The sensor showed a sensitivity of 0.833 N<sup>−1</sup> and a drift of ≤1%. 
+Tactile sensing in surgical robotics is focused mainly on studying the interactions between the confined tissue environments and the instruments based on contact information. Successful cadaver experiments have shown that the system developed herein will be of effective in providing tactile sensing assistance to clinicians and dentists in the near future. Further the sensor was also tested on two other custom built surgical devices - an origami-layer-jamming based retractor and a drug-delivery module. The sensor showed a sensitivity of 0.833 N<sup>−1</sup> and a drift of ≤1%. 
 
 <div style="padding:10px; border-left: 5px solid darkgray">
 <u>Related Publications:</u><br>
