@@ -65,7 +65,16 @@ This property is exploited to introduce various sensing modalities into the ante
 
 ## Sensing Prototypes
 
-Four sensor prototypes were made, designed to respond to different mechanical stimuli - a capacitance-based tactile sensor, an inductance based compression sensor, an extension sensor and a bend sensor.
+<div class="post_container">
+      <div class="flex-item-pic">
+        <img src="/GodwinPonraj/assets/Fig_RFID_sensors.jpg" width = "100%" height = "100%">
+      </div>
+      <div class="flex-item-text" align="justify" style="padding-right:0px">
+        Four sensor prototypes were made, designed to respond to different mechanical stimuli - a capacitance-based tactile sensor, an inductance based compression sensor, an extension sensor and a bend sensor. The fabricated capacitive sensor prototype has a parallel plate design, where both the conductive plates lie on a single plane, and an out-of-plane capacitive coupling occurs between them via the common dielectric medium. 
+      </div>
+</div>
+
+When a normal force is applied the dielectric medium is deformed, disrupting the electric field distribution and capacitive coupling between the conductive traces.
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
