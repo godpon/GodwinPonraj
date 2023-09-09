@@ -78,8 +78,8 @@ Maximum return loss occurs when the distance between the two antennas is minimum
         Video shows the proposed sensing scheme in a human phantom model. The return loss at resonant frequency marked by the red circle changes and peaks whenever the sensing antenna is the closest to the reading antenna.
       </div>
 </div>
-
-<div style="padding:10px; border: 1px solid lightgray; border-left: 5px solid darkgray;">
+<br>
+<div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
 <b><i>G. Ponraj</i></b>, C. Cai, and H. Ren, “Chip-Less Real-time Wireless Sensing of Endotracheal Intubation Tubes by Printing and Mounting Conformable Antenna Tag,” in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2369-2376, April 2022, <a href = "https://ieeexplore.ieee.org/document/9676421/">doi: 10.1109/LRA.2022.3141664</a>.
 </div>
