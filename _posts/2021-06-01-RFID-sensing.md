@@ -57,15 +57,31 @@ contribution: Lead Contributer ( <i>Conceptualisation</i> | <i>Fabrication</i> |
 <!--more-->
 We use an office-based inkjet printer to produce the antenna traces using silver conductive ink. Kirigami-inspired designs are used to produce four sensors responsive to various mechanical stimuli commonly used for DIY robotic projects (contact, compression, extension, and bend). We demonstrate sensing and wireless transmission of the detected mechanical stimuli through the proposed chipless sensor tags with reliable consistency. The tags can be replicated quickly with the inkjet-printing method. This paper also contains analyses on the effects of varying the dimensions and electrical parameters of the tags. The developed antennas in this work can be used as wireless mechano-responsive sensors for robotic applications.
 
-RFID works based on the modulation of a reflected signal at a tag’s resonant frequency (𝑓𝑟𝑒𝑠). This tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the resonant frequency formula:
+RFID works based on the modulation of a reflected signal at a tag’s resonant frequency ($$𝑓_{𝑟𝑒𝑠}$$). This tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the resonant frequency formula:
 
-𝑓𝑟𝑒𝑠 = 1/2𝜋√𝐿𝐶  (1)
+$$ 𝑓_{𝑟𝑒𝑠} = 1/2𝜋√𝐿𝐶  $$
 
 The transmission strength and resonant frequency of RFIDs are affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance.
 
-𝑄 = 𝑓𝑟𝑒𝑠𝐿𝑅 = 𝑋𝐿𝑅 = 𝑋𝐶𝑅 = 1𝑅√𝐿𝐶  (3)
+$$ 𝑄 = 𝑓𝑟𝑒𝑠𝐿𝑅 = 𝑋𝐿𝑅 = 𝑋𝐶𝑅 = 1𝑅√𝐿𝐶 $$
 
 This property is exploited to introduce various sensing modalities into the antenna. A change in the physical property is transduced into a change in the sensor’s resistance or capacitance. When connected to an antenna, this change is reflected as a change in transmission power and frequency
+
+## MathJax
+
+You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+
+[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+
+$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+
+The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
+
+$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
+
+The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
+
+$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
