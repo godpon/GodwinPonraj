@@ -54,12 +54,14 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
         <img src="/GodwinPonraj/assets/Fig_Tact_manipulator.jpg" height = "100%">
       </div>
       <div class="flex-item-text" align="justify" style="padding-right:0px">
-        The ability to sense and measure object properties based on touch is known as tactile sensing. The flexibility and dexterity of soft robots can be fully explored, only with efficient tactile feedback from the environment or the objects the robot interact with. This work discusses the development of a soft fabric based piezoresistive tactile sensor, the related calibration experiments, procedures and some application examples like tactile feedback control and orientation estimation. 
+        The ability to sense and measure object properties based on touch is known as tactile sensing. The flexibility and dexterity of soft robots can be fully explored, only with efficient tactile feedback from the environment or the objects the robot interact with. This work discusses the development of a soft fabric based piezoresistive tactile sensor, the related calibration experiments, procedures and some application examples like orientation estimation and tactile feedback control. 
       </div>
 </div>
 
 <!--more-->
-The feedback control is demonstrated in a cutting task wherein the tactile sensor data was used to identify the different cutting phases. To hold an object firmly and do the required task, the orientation of the object with respect to the robotic hand gripper is one of the necessary key information. Humans can sense the orientation of an object based on vision, kinesthetic sensation, or touch sensation. Similarly, robots shall also be able to estimate grasped object orientation just based on tactile sensing without knowing manipulator kinesthetic or kinematics. A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Fabric based sensors are flexible, stretchable and can confer to both hard and soft surfaces easily.  
+To hold an object firmly and do the required task, the orientation of the object with respect to the robotic hand gripper is one of the necessary key information. Humans can sense the orientation of an object based on vision, kinesthetic sensation, or touch sensation. Similarly, robots shall also be able to estimate grasped object orientation just based on tactile sensing without knowing manipulator kinesthetic or kinematics. A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Fabric based sensors are flexible, stretchable and can confer to both hard and soft surfaces easily.  
+
+The feedback control is demonstrated in a cutting task wherein the tactile sensor data was used to identify the different cutting phases. 
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publications:</u><br>
