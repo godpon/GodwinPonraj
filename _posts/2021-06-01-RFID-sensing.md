@@ -57,7 +57,17 @@ contribution: Lead Contributer ( <i>Conceptualisation</i> | <i>Fabrication</i> |
 <!--more-->
 We use an office-based inkjet printer to produce the antenna traces using silver conductive ink. Kirigami-inspired designs are used to produce four sensors responsive to various mechanical stimuli commonly used for DIY robotic projects (contact, compression, extension, and bend). We demonstrate sensing and wireless transmission of the detected mechanical stimuli through the proposed chipless sensor tags with reliable consistency. The tags can be replicated quickly with the inkjet-printing method. This paper also contains analyses on the effects of varying the dimensions and electrical parameters of the tags. The developed antennas in this work can be used as wireless mechano-responsive sensors for robotic applications.
 
-<div style="border-left: 5px solid darkgray; padding:10px;">
+RFID works based on the modulation of a reflected signal at a tag’s resonant frequency (𝑓𝑟𝑒𝑠). This tuning is done by adjusting the capacitance (C), or the inductance, (L) according to the resonant frequency formula:
+
+𝑓𝑟𝑒𝑠 = 1/2𝜋√𝐿𝐶  (1)
+
+The transmission strength and resonant frequency of RFIDs are affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance.
+
+𝑄 = 𝑓𝑟𝑒𝑠𝐿𝑅 = 𝑋𝐿𝑅 = 𝑋𝐶𝑅 = 1𝑅√𝐿𝐶  (3)
+
+This property is exploited to introduce various sensing modalities into the antenna. A change in the physical property is transduced into a change in the sensor’s resistance or capacitance. When connected to an antenna, this change is reflected as a change in transmission power and frequency
+
+<div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publication:</u><br>
 <b><i>G. Ponraj</i></b>, W. L. Yeo, K. S. Kumar, M. S. Kalairaj, C. J. Cai and H. Ren, "Chip-Less Wireless Sensing of Kirigami Structural Morphing Under Various Mechanical Stimuli Using Home-Based Ink-Jet Printable Materials," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11400-11407, <a href="https://ieeexplore.ieee.org/document/9561945">doi: 10.1109/ICRA48506.2021.9561945</a>.
 </div>
