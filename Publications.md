@@ -32,11 +32,11 @@ title: "Publications"
 
 5. J. Li, Y. B. Seng, <b>_G. Ponraj_</b>, K. S. Kumar, C. J. Cai, and H. Ren, “Kirigami Strain Sensing on Balloon Catheters with Temporary Tattoo Paper,” 2021 IEEE 17th Int. Conf. Wearable Implant. Body Sens. Networks, BSN 2021, Jul. 2021, [doi: 10.1109/BSN51625.2021.9507031](https://ieeexplore.ieee.org/abstract/document/9507031).
 
-6. <b>_G. Ponraj_</b>, W. Le Yeo, K. S. Kumar, M. S. Kalairaj, C. J. Cai, and H. Ren, “Chip-Less Wireless Sensing of Kirigami Structural Morphing Under Various Mechanical Stimuli Using Home-Based Ink-Jet Printable Materials,” in 2021 IEEE International Conference on Robotics and Automation (ICRA), May 2021, vol. 2021-May, pp. 11400–11407, [doi: 10.1109/ICRA48506.2021.9561945](https://ieeexplore.ieee.org/document/9561945/).
+6. <b>_G. Ponraj_</b>, W. Le Yeo, K. S. Kumar, M. S. Kalairaj, C. J. Cai, and H. Ren, “Chip-Less Wireless Sensing of Kirigami Structural Morphing Under Various Mechanical Stimuli Using Home-Based Ink-Jet Printable Materials,” in 2021 IEEE International Conference on Robotics and Automation (ICRA), May 2021, pp. 11400–11407, [doi: 10.1109/ICRA48506.2021.9561945](https://ieeexplore.ieee.org/document/9561945/).
 
 7. K. Senthil Kumar Z. Xu, M. S. Kalairaj, <b>_G. Ponraj_</b>, H. Huang, C. F Ng, Q. H. Wu, H. Ren, “Stretchable capacitive pressure sensing sleeve deployable onto catheter balloons towards continuous intra-abdominal pressure monitoring,” Biosensors, vol. 11, no. 5, p. 156, May 2021, [doi: 10.3390/bios11050156](https://www.mdpi.com/1109596).
 
-8. <b>_G. Ponraj_</b>, X. Z. Wang, K. S. Kumar, and H. Ren, “Comparative Study of Machine Learning Algorithms to Classify Hand Gestures from Deployable and Breathable Kirigami-Based Electrical Impedance Bracelet,” Multimodal Technol. Interact. 2020, Vol. 4, Page 47, vol. 4, no. 3, p. 47, Aug. 2020, [doi: 10.3390/MTI4030047](https://doi.org/10.3390/mti4030047).
+8. <b>_G. Ponraj_</b>, X. Z. Wang, K. S. Kumar, and H. Ren, “Comparative Study of Machine Learning Algorithms to Classify Hand Gestures from Deployable and Breathable Kirigami-Based Electrical Impedance Bracelet,” Multimodal Technol. Interact. 2020, vol. 4, no. 3, p. 47, Aug. 2020, [doi: 10.3390/MTI4030047](https://doi.org/10.3390/mti4030047).
 
 9. H. Banerjee, T. K. Li, <b>_G. Ponraj_</b>, S. K. Kirthika, C. M. Lim, and H. Ren, “Origami-Layer-Jamming Deployable Surgical Retractor with Variable Stiffness and Tactile Sensing,” J. Mech. Robot., vol. 12, no. 3, Jun. 2020, [doi: 10.1115/1.4045424](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/12/3/031010/1067310/Origami-Layer-Jamming-Deployable-Surgical?redirectedFrom=fulltext).
 
