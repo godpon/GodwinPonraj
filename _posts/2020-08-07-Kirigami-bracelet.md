@@ -59,5 +59,5 @@ Simulation results show that the proposed kirigami structure for the bracelet ha
 
 <div style="border-left: 5px solid darkgray; padding:10px;">
 <u>Related Publication:</u><br>
-<b><i>G. Ponraj</i></b>, X. Z. Wang, K. S. Kumar, and H. Ren, “Comparative Study of Machine Learning Algorithms to Classify Hand Gestures from Deployable and Breathable Kirigami-Based Electrical Impedance Bracelet,” Multimodal Technol. Interact. 2020, Vol. 4, Page 47, vol. 4, no. 3, p. 47, Aug. 2020, <a href="https://www.mdpi.com/791780">doi: 10.3390/MTI4030047</a>.
+<b><i>G. Ponraj</i></b>, X. Z. Wang, K. S. Kumar, and H. Ren, “Comparative Study of Machine Learning Algorithms to Classify Hand Gestures from Deployable and Breathable Kirigami-Based Electrical Impedance Bracelet,” Multimodal Technol. Interact. 2020, vol. 4, no. 3, p. 47, Aug. 2020, <a href="https://www.mdpi.com/791780">doi: 10.3390/MTI4030047</a>.
 </div>
