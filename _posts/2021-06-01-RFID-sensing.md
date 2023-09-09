@@ -66,7 +66,7 @@ $𝑓_{𝑟𝑒𝑠} = <mfrac>
 </mfrac>
 </math>
 
-$$f_{res} = \frac{1}{2 \pi \sqrt ( LC ) }
+$$f_{res} = \frac{1}{2 \pi \sqrt{LC} }
 The transmission strength and resonant frequency of RFIDs are affected by the (inductive) coupling coefficient, k, and the Quality factor, Q, which depends on their basic electrical parameters such as resistance, capacitance, and inductance.
 $$𝑄 = \frac{1}{𝑅}\sqrt\frac{𝐿}{𝐶}$$
 This property is exploited to introduce various sensing modalities into the antenna. A change in the physical property is transduced into a change in the sensor’s resistance or capacitance. When connected to an antenna, this change is reflected as a change in transmission power and frequency
