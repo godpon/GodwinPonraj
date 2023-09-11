@@ -66,7 +66,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>F
       </div>
       <div class="flex-item-pic">
         <video width="100%" height= "100%" controls>
-          <source src="/GodwinPonraj/assets/Vid_Tilt_sensing.mp4" type="video/mp4">
+          <source src="/GodwinPonraj/assets/Vid_Tilt_sensing_compressed.mp4" type="video/mp4">
           Your browser does not support mp4 video.
         </video>
       </div>
