@@ -24,7 +24,7 @@
       <b>Process Control System Engineer</b><br>
         <i>Micron Semiconductors</i><br>
         Jul’15 - Apr’16<br>
-      </div>
+      </div><br>
       <div class="main" align="left" style="border-left: 2px solid gray;">
         As a Run-to-Run control engineer, 
         implemented feedback and feed forward control 
