@@ -78,7 +78,19 @@ To demonstrate the superiority of the soft enhancement structure, the robotic gr
       </div>
 </div>
 
-Due to the presence of soft layers, the gripper was able to handle delicate slippery surface of the egg with a firm grip without transmitting the full force from the rigid hand beneath.
+Due to the presence of soft layers, the gripper was able to handle delicate slippery surface of the egg with a firm grip without transmitting the full force from the rigid hand beneath. In another experiment, the robotic gripper was used to lift an empty cylinder, which was then filled up with water. As the weight kept on increasing, the object began to slip out of the hand. The tactile sensor patch between the soft and rigid layers at the finger tip of the index finger served as the feedback device.The derivative of the mean of the tactile sensor patch was monitored. When it crosses the threshold value, it was concluded that the object has begun to slip out of the hand.
+
+<div class="post_container">
+      <div class="flex-item-text" align="justify" style="padding-left:0px">
+        Using this as a feedback signal, the grip of the hybrid hand was increased by increasing the control torque of the servo motors and by activating the negative pressure in the suction module. Even though the proposed feedback control approach is trivial, it serves as proof that the tactile sensor patch was able to provide a feedback which was effectively used in reducing the object slip.
+      </div>
+      <div class="flex-item-pic">
+        <video width="100%" height= "100%" controls>
+          <source src="/GodwinPonraj/assets/Vid_slip_correction.mp4" type="video/mp4">
+          Your browser does not support mp4 video.
+        </video>
+      </div>
+</div><br>
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publications:</u><br>
