@@ -49,7 +49,7 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Algorithm</i> | <
         <img src="/GodwinPonraj/assets/Fig_Sensor_fusion.jpg" height = "100%">
       </div>
       <div class="flex-item-text" align="justify" style="padding-right:0px">
-        A novel strategy for tracking the fingertips of a human hand by combining two distinct sensors - Leap motion controller (vision based tracking) and Flex sensors (non-vision based tracking). We describe the theory and implementation of a sensor fusion algorithm using Kalman filter, and present the experimental results that shows the proposed method having an edge in minimizing the effects of occlusion in a visual based tracking method. Increased accuracy and reliable finger-tip tracking was achieved with $<$5% error.
+        A novel strategy for tracking the fingertips of a human hand by combining two distinct sensors - Leap motion controller (vision based tracking) and Flex sensors (non-vision based tracking). We describe the theory and implementation of a sensor fusion algorithm using Kalman filter, and present the experimental results that shows the proposed method having an edge in minimizing the effects of occlusion in a visual based tracking method. Increased accuracy and reliable finger-tip tracking was achieved with <5% error.
       </div>
 </div>
 
@@ -60,20 +60,18 @@ Leap Motion controller (_Leap motion Inc._) is a motion sensor specifically desi
 
 Flex sensors are analog input devices whose resistance changes when they are bent by external force. They can be used to detect the flexion/extension of a Human finger by mounting them above the fingers. In this work, three flex sensors were stitched along the outer-dorsal surface of a glove, one each for the thumb, index and middle fingers. This method is relatively cheaper than other glove based tracking methods using accelerometers or mechanical attachments, and was sufficient to provide the basic data to support the implementation of the proposed sensor fusion technique together with the vision data from the leap motion controller. The position and velocity vectors from the leap motion controller and the position estimate from the flex sensors based on the kinematic model of the human hand, were taken as the outputs of a state-space model of a linear time-invariant system. Applying kalman filter to this state space model, the a-posteriori covariance estimation will generate the position vectors by combining data from both the leap motion controller and the flex sensor glove. 
 
-<br>
+To analyze the effectiveness of the proposed method, finger tip positions of index, middle and thumb fingers during selected hand postures were measured both from LM alone and from the sensor fusion method. The postures were selected so that the problem of self-occlusion is evident during LM tracking. Initially, the posture was kept facing the LM and later, the hand was re-oriented to face away from the LM. Error was calculated as percentage deviation with respect to the ground truth measured by the electromagnetic trackers. Figure below shows the comparison of root mean square (RMS) errors of the proposed sensor fusion method with those of LM alone for one of the finger postures (parallel extension). 
+
 <div class="post_container">
-      <div class="flex-item-text" align="justify" style="padding-left:0px">
-        To hold an object firmly and do the required task, the orientation of the object with respect to the robotic hand gripper is one of the necessary key information. Humans can sense the orientation of an object based on vision, kinesthetic sensation, or touch sensation. Similarly, robots shall also be able to estimate grasped object orientation just based on tactile sensing without knowing manipulator kinesthetic or kinematics. 
-      </div>
       <div class="flex-item-pic">
-        <video width="100%" height= "100%" controls>
-          <source src="/GodwinPonraj/assets/Vid_Tilt_sensing_compressed.mp4" type="video/mp4">
-          Your browser does not support mp4 video.
-        </video>
+        <img src="/GodwinPonraj/assets/Fig_par_ext.jpg" height = "100%">
+      </div>
+      <div class="flex-item-text" align="justify" style="padding-right:0px">
+        The Parallel extension denotes the extension of the thumb in parallel to the other four fingers. The thumb lies in a position between abduction and adduction. When the orientation is reversed, the thumb is entirely occluded by the palm. The proposed method is able to reduce the error percentage of thumb position to <2%. A slight improvement in position of the other two fingers can also be observed. 
       </div>
 </div>
 
-A new approach for object orientation estimation from a multilayered tactile sensor was introduced in this work. Video above shows the proposed mechanism of tilt sensing based on the tactile sensor inputs. 
+The proposed sensor fusion method has been proved to reduce the error in occluded scenarios thus increasing the overall accuracy and reliability of the device. It can be used in applications that require remote control of robotic manipulators accurately. A sample was demonstrated using a soft robotic actuators. Future work can be done to extend this method to incorporate joint angle and orientation data of each bone from the LM and with the help of multiple flex sensors to further reduce the error percentage.
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publications:</u><br>
