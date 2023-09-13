@@ -1,5 +1,5 @@
 ---
-title:  "Sensor Fusion of Leap Motion Controller and Flex Sensors using Kalman Filter for Human Finger Tracking"
+title:  "Sensor Fusion of Leap Motion Controller and Flex Sensors for Human Finger Tracking"
 mathjax: true
 layout: post
 categories: media
