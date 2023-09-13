@@ -69,7 +69,7 @@ To demonstrate the superiority of the soft enhancement structure, the robotic gr
 <div class="post_container">
       <div class="flex-item-pic">
         <video width="100%" height= "100%" controls>
-          <source src="/GodwinPonraj/assets/Vid_soft_enhans.mp4" type="video/mp4">
+          <source src="/GodwinPonraj/assets/Vid_Egg_handling.mp4" type="video/mp4">
           Your browser does not support mp4 video.
         </video>
       </div>
