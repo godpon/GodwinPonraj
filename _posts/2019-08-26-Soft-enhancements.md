@@ -54,7 +54,8 @@ contribution: Lead Contributer ( <i>Conceptualization</i> | <i>Design</i> | <i>M
         <img src="/GodwinPonraj/assets/Fig_Soft_enhans.jpg" height = "100%">
       </div>
       <div class="flex-item-text" align="justify" style="padding-right:0px">
-        In any interaction of the robot with its surroundings, it is important to establish proper contact with the object to ensure complete control over its manipulation. The sense of touch and perception play a vital role to close the feedback loop of contact modulations. This work discusses the design and development of a novel hybrid sensorized soft-matter structure which has active contact modulation capabilities to ensure better and firm contact in rigid robotic grippers. An integrated multi-taxel piezoresistive tactile sensor which can confer to both rigid and soft surfaces easily was developed as a feedback device. 
+<!--         In any interaction of the robot with its surroundings, it is important to establish proper contact with the object to ensure complete control over its manipulation.   -->
+        The sense of touch and perception play a vital role to close the feedback loop of contact modulations. This work discusses the design and development of a novel hybrid sensorized soft-matter structure which has active contact modulation capabilities to ensure better and firm contact in rigid robotic grippers. An integrated multi-taxel piezoresistive tactile sensor which can confer to both rigid and soft surfaces easily was developed as a feedback device.
       </div>
 </div>
 
