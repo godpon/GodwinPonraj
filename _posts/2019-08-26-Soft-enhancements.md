@@ -69,14 +69,16 @@ To demonstrate the superiority of the soft enhancement structure, the robotic gr
 <div class="post_container">
       <div class="flex-item-pic">
         <video width="100%" height= "100%" controls>
-          <source src="/GodwinPonraj/assets/Vid_Egg_handling.mp4" type="video/mp4">
+          <source src="/GodwinPonraj/assets/Vid_soft_enhans.mp4" type="video/mp4">
           Your browser does not support mp4 video.
         </video>
       </div>
       <div class="flex-item-text" align="justify" style="padding-right:0px">
-        The same task was repeated by the same gripper after equipping the thumb and the index fingers with the proposed soft enhancement structures. Once the hand makes firm contact with the egg, the suction module is actuated to increase the grip strength by creating a vacuum between the hand and the egg. The embedded tactile sensor was used to monitor the force exerted during the grip. Due to the presence of soft layers, the gripper was able to handle delicate slippery surface of the egg with a firm grip without transmitting the full force from the rigid hand beneath.
+        The same task was repeated by the same gripper after equipping the thumb and the index fingers with the proposed soft enhancement structures. Once the hand makes firm contact with the egg, the suction module is actuated to increase the grip strength by creating a vacuum between the hand and the egg. The embedded tactile sensor was used to monitor the force exerted during the grip. 
       </div>
 </div>
+
+Due to the presence of soft layers, the gripper was able to handle delicate slippery surface of the egg with a firm grip without transmitting the full force from the rigid hand beneath.
 
 <div style="padding:10px; border-bottom: 1px solid lightgray; border-left: 5px solid darkgray;">
 <u>Related Publications:</u><br>
