@@ -25,7 +25,7 @@
         <b>Doctor of Philosophy</b><br>
         <i>Biomedical Engineering</i><br>
         National University of Singapore<br>
-        Aug’19 – Present
+        Aug’19 – Apr'24
       </div>
       <div class="text" align="center" style="padding: 1em;">
         <b>Master of Science</b><br>
